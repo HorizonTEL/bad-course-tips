@@ -1,0 +1,6 @@
+error：源文件 (5,35) 位置发生错误，16进制格式不对，there is no exist g 
+error：源文件 (8,31) 位置发生错误，16进制格式不对，there is no exist L 
+error：源文件 (12,2) 位置发生错误，注释未配对，there is no exist /* 
+error：源文件 (5,35) 位置发生错误，16进制格式不对，there is no exist g 
+error：源文件 (8,31) 位置发生错误，16进制格式不对，there is no exist L 
+error：源文件 (12,2) 位置发生错误，注释未配对，there is no exist /* 
